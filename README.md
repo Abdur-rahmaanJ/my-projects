@@ -1,5 +1,9 @@
 # my-projects
 
+if forked badge is not included, it means i started it
+
+forked projects listed here means i contribute to them
+
 . >>> **badges** 
 
 🌟 - favourite
@@ -39,6 +43,22 @@ Arabic Translation of the Python Documentation
 - x
 
 ### [python-docs-fr](https://github.com/Abdur-rahmaanJ/python-docs-fr) [🌟] [🍴]
-Arabic Translation of the Python Documentation
+French Translation of the Python Documentation
 - x
+
+### [pymug](https://github.com/Abdur-rahmaanJ/pymug) [🌟] [👍]
+Python mauritius user group [pymug.com](https://www.pymug.com) source
+- x
+
+### [Cinammon - linux mint](https://github.com/Abdur-rahmaanJ/Cinnamon) [🌟] [🍴]
+Linux desktop
+- python
+
+### [odoo](https://github.com/Abdur-rahmaanJ/odoo) [🌟] [🍴]
+open source POS system
+- python
+
+### [LExpress-Property-API](https://github.com/Abdur-rahmaanJ/LExpress-Property-API) [🌟] [🍴]
+open source POS system
+- python
 
