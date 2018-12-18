@@ -59,6 +59,10 @@ open source POS system
 - python
 
 ### [LExpress-Property-API](https://github.com/Abdur-rahmaanJ/LExpress-Property-API) [🌟] [🍴]
-open source POS system
+A Python Web API Wrapper around L'Express Property
+- python
+
+### [pipermail2ebook](https://github.com/Abdur-rahmaanJ/pipermail2ebook) [🎉]
+enjoy your pipermail archives as ebook digests
 - python
 
