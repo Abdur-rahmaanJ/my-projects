@@ -4,6 +4,8 @@ if forked badge is not included, it means i started it
 
 forked projects listed here means i contribute to them
 
+---
+
 . >>> **badges** 
 
 🌟 - favourite
@@ -19,6 +21,8 @@ forked projects listed here means i contribute to them
 🎖️ - special merit
 
 ❌ - discontinued
+
+---
 
 . >>> **projects** 
 
