@@ -70,3 +70,10 @@ A Python Web API Wrapper around L'Express Property
 enjoy your pipermail archives as ebook digests
 - python
 
+### [data-sci-mach-learn-deep-learn](https://github.com/Abdur-rahmaanJ/data-sci-mach-learn-deep-learn) [🌟]
+jupyterified explanations
+- x
+
+### [news-defi](https://github.com/Abdur-rahmaanJ/news-defi) [🎉]
+get the headlines of the day for mauritius
+- python
