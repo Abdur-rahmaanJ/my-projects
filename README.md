@@ -38,6 +38,10 @@ python irc bot with plugins. learners welcomed.
 the language for creating css shapes
 - python
 
+### [sololearn OS](https://github.com/Abdur-rahmaanJ/sololearnOS) [🌟] [👍] [📌]
+An advanced os (recreation) software
+- html css js
+
 ### [Think-Python-Fr](https://github.com/Abdur-rahmaanJ/Think-Python-Fr) [🌟] [👍] [📌] [🎖️]
 official translation of *Think Python: how to think like a computer scientist*
 - x
@@ -62,13 +66,41 @@ Linux desktop
 open source POS system
 - python
 
+### [binsnitch](https://github.com/Abdur-rahmaanJ/binsnitch) [🌟] [🍴]
+Detect silent (unwanted) changes to files on your system
+- python
+
+### [gym duckietown](https://github.com/Abdur-rahmaanJ/gym-duckietown) [🌟] [🍴]
+Duckietown self-driving car simulator environments for OpenAI Gym
+- python
+
+### [Disk Space Analyser](https://github.com/Abdur-rahmaanJ/DiskSpaceAnalyser) [🌟] [🍴]
+analyses space taken by files
+- python
+
 ### [LExpress-Property-API](https://github.com/Abdur-rahmaanJ/LExpress-Property-API) [🌟] [🍴]
 A Python Web API Wrapper around L'Express Property
 - python
 
+### [Made In Mauritius](https://github.com/Abdur-rahmaanJ/made-in-Mauritius) [🌟] [🍴]
+ A list of cool open-source projects made in Mauritius
+- html css js
+
 ### [pipermail2ebook](https://github.com/Abdur-rahmaanJ/pipermail2ebook) [🎉]
 enjoy your pipermail archives as ebook digests
 - python
+
+### [registry of mauritian bloggers](https://github.com/Abdur-rahmaanJ/Registry-of-Mauritian-Bloggers) [🎉][👍]
+List of blogs from mauritius
+- python | html css
+
+### [Home book lending](https://github.com/Abdur-rahmaanJ/Home-book-lending) [🎉][👍]
+Know to which friend you lended books to ! A simple system using PHP and MySQL to fireup on your local machine !
+- php
+
+### [Prototyp](https://github.com/Abdur-rahmaanJ/ProtoTyp) [🎉][👍]
+A css library for quick prototyping
+- css
 
 ### [data-sci-mach-learn-deep-learn](https://github.com/Abdur-rahmaanJ/data-sci-mach-learn-deep-learn) [🌟]
 jupyterified explanations
