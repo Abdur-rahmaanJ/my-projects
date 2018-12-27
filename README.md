@@ -47,7 +47,7 @@ official translation of *Think Python: how to think like a computer scientist*
 - x
 
 ### [py-docs-ar](https://github.com/Abdur-rahmaanJ/py-docs-ar) [🌟] [👍] [📌] [🎖️]
-Arabic Translation of the Python Documentation
+Official Arabic Translation of the Python Documentation
 - x
 
 ### [python-docs-fr](https://github.com/Abdur-rahmaanJ/python-docs-fr) [🌟] [🍴]
@@ -65,6 +65,10 @@ Linux desktop
 ### [odoo](https://github.com/Abdur-rahmaanJ/odoo) [🌟] [🍴]
 open source POS system
 - python
+
+### [numpy](https://github.com/Abdur-rahmaanJ/numpy) [🌟] [🍴]
+The fundamental package for scientific computing with Python.
+- python | C
 
 ### [binsnitch](https://github.com/Abdur-rahmaanJ/binsnitch) [🌟] [🍴]
 Detect silent (unwanted) changes to files on your system
@@ -93,6 +97,10 @@ enjoy your pipermail archives as ebook digests
 ### [registry of mauritian bloggers](https://github.com/Abdur-rahmaanJ/Registry-of-Mauritian-Bloggers) [🎉][👍]
 List of blogs from mauritius
 - python | html css
+
+### [POSMS](https://github.com/Abdur-rahmaanJ/POSMS) [🎉][👍]
+Tired of paying subscriber mail hosting / service? Here comes an open, free system powered by python !
+- python
 
 ### [Home book lending](https://github.com/Abdur-rahmaanJ/Home-book-lending) [🎉][👍]
 Know to which friend you lended books to ! A simple system using PHP and MySQL to fireup on your local machine !
